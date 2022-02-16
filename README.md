@@ -33,3 +33,9 @@ If another blockchain ecosystem comes along and proves with evidence that they a
 #### [Lesson 1 - Generations of Blockchains, the Cosmos Ecosystem, & The Main Tools of a Digital Cosmonaut](lesson_1.md)
 
 #### [Lesson 2 - Brief Introduction to Wallets & Supported Wallets](lesson_2.md)
+
+
+
+---
+
+####**All material in this repository is in the public domain.** ([License](LICENSE.md))
