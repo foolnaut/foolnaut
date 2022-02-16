@@ -38,4 +38,4 @@ If another blockchain ecosystem comes along and proves with evidence that they a
 
 ---
 
-####**All material in this repository is in the public domain.** ([License](LICENSE.md))
+#### **All material in this repository is in the public domain.** ([License](LICENSE.md))
