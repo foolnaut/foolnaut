@@ -4,7 +4,7 @@ foolnaut is an ordinary person who loves the simple things and technology. Learn
 
 ### **This repository will introduce you to the Cosmos ecosystem.**
 
-#### [Available Resources](#available-resources)
+#### [Available Resources](#available-resources-1)
 
 ---
 
