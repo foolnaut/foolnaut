@@ -2,13 +2,11 @@
 
 foolnaut is an ordinary person who loves the simple things and technology. Learning about crypto for several years, foolnaut is ready to begin contributing to the space. 🌌 🛸
 
-### **This repository will introduce you to the Cosmos ecosystem.**
+## **This repository will introduce you to the Cosmos ecosystem.**
 
 ---
 
-### **_Simply Put_**
-
-## **Available Resources**
+# **Available Resources**
 
 #### [Lesson 1 - Generations of Blockchains, the Cosmos Ecosystem, & The Main Tools of a Digital Cosmonaut](lesson_1.md)
 

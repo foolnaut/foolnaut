@@ -41,13 +41,14 @@ From Cosmostation, you can make transactions to the multiple blockchains. And de
 - [Keplr GitHub](https://github.com/chainapsis/keplr-wallet)
 - [Chrome or Brave extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)
 - [Android](https://play.google.com/store/apps/details?id=com.chainapsis.keplr) & [iOS app](https://apps.apple.com/app/keplr-wallet/id1567851089)
-- The Keplr browser extension contains more functionality than mobile app.
+- The Keplr Wallet browser extension
+    - contains more functionality than mobile app.
+    - is supported for all dApps in the Cosmos ecosystem.
 
 #### How to connect to dApps?
 
 - "Connect wallet" button
-  - You can test connecting your wallet with the [Osmosis DEX](https://app.osmosis.zone).
-  - Keplr wallet is supported for almost all dApps in the Cosmos ecosystem.
+  - You can test connecting your wallet with <https://app.osmosis.zone>.
 
 ---
 
